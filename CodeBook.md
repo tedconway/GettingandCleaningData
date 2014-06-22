@@ -1,6 +1,6 @@
 __RDS2.rds__
 
-A description of the variables and data contained in the second "tidy" dataset created for the Coursera Getting and Cleaning Data course project from the Human Activity Recognition Using Smartphones Dataset. 
+A description of the variables and data contained in the (uploaded) second "tidy" dataset created for the Coursera Getting and Cleaning Data course project from the Human Activity Recognition Using Smartphones Dataset. 
 
 Rather than repeat things here, see https://github.com/tedconway/GettingandCleaningData/blob/master/README.md for more information, including data transformations.
 
