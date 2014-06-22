@@ -34,6 +34,8 @@ saveRDS(r2, file="RDS1.rds")
 
 # Compute means for each group of SubjectID and Activity ID
 library(plyr)
+r2$SubjectID <- as.factor(r2$SubjectID)
+r2$ActivityID <- as.factor(r2$ActivityID)
 r3 <- ddply(r2, .(SubjectID, ActivityID, ActivityName), numcolwise(mean))
 
 # Save as R dataset 2
