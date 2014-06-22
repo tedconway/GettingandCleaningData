@@ -29,10 +29,10 @@ __Code Book__
 A description of the variables and data contained in the RDS2.rds dataset can be found in the GitHub repo:
 https://github.com/tedconway/GettingandCleaningData
 In file:
-https://github.com/tedconway/GettingandCleaningData/CodeBook.md
+https://github.com/tedconway/GettingandCleaningData/blob/master/CodeBook.md
 
 __Script__
 The script that created both R datasets can be found in GitHub repo:
 https://github.com/tedconway/GettingandCleaningData
 The R code is in:
-https://github.com/tedconway/GettingandCleaningData/run_analysis.R
+https://github.com/tedconway/GettingandCleaningData/blob/master/run_analysis.R
